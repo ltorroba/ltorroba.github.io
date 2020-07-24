@@ -399,3 +399,53 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+
+/*
+   Custom
+   ========================================================================== */
+
+.page__closeby p {
+  margin: 0;
+}
+
+.archive a {
+  display: inline-block;
+}
+
+.archive__item-excerpt + p {
+  // text-align: justify;
+}
+
+#main a.link-button {
+  display: inline-block;
+  padding: 0.3em 0.3em;
+  margin: 0;
+  border-radius: 0.3em;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-weight: 300;
+  font-size: 11pt;
+  color: #FFFFFF;
+  text-align: center;
+  transition: all 0.2s;
+  opacity: 1;
+
+  &:hover {
+    text-decoration:none;
+  }
+}
+
+a.paper-button {
+  background-color: #c0392b;
+  &:hover {
+    background-color: #e74c3c;
+  }
+}
+
+a.code-button {
+  background-color: #27ae60;
+  &:hover {
+    background-color: #2ecc71;
+  }
+}
