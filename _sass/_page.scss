@@ -431,6 +431,10 @@
   transition: all 0.2s;
   opacity: 1;
 
+  i {
+    margin-right: 4px;
+  }
+
   &:hover {
     text-decoration:none;
   }
@@ -447,5 +451,17 @@ a.code-button {
   background-color: #27ae60;
   &:hover {
     background-color: #2ecc71;
+  }
+}
+
+#main a.link-button.pdf-button {
+  background-color: #c0392b;
+  padding: 6px 0.3em 6px 0.3em;
+  vertical-align: top;
+  font-size: 12pt;
+  margin-left: 5px;
+
+  &:hover {
+    background-color: #e74c3c;
   }
 }

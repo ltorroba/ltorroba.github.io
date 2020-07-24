@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: 'CV <a class="link-button pdf-button" href="../files/cv.pdf"><i class="fa fa-file-pdf"></i>PDF</a>'
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,49 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MPhil in Advanced Computer Science, University of Cambridge, 2020.
+* BSc (Hons) in Artificial Intelligence and Computer Science, University of Edinburgh, 2019. *Graduted with First-class honors*.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 06/2018-08/2018: Intern Software Developer (Canon Medical Systems Corporation, Edinburgh, UK)
+  * Worked on a virtual reality application using Direct3D and SteamVR 
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Awards
+=====
+
+* Class Prize for Artificial Intelligence and Computer Science *(Graduated in 1st place in Edinburgh AI & CS cohort; 1 recipient)*
+* Howe Prize for Top Performance in UG4 Artificial Intelligence *(Highest aggregate grade in 4th year undergraduate AI cohort; 1 recipient)*
+* British Computing Society Prize for Top Performing Student in the Professional Issues Course *(Highest grade in 3rd year Professional Issues course; 2 recipients)*
+
+Skills
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Machine Learning and NLP
+* Python, C#, C/C++, Java, bash
+* LaTeX
+
