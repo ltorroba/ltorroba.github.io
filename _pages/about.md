@@ -15,5 +15,5 @@ My current (though volatile) research interests are probing and Bayesian statist
 # News
 
 * **8/7/2020**: Presented the results of our paper, [Machine Reading of Historical Events](publication/2020-acl-machine-reading-historical-events). Joint work with Or Honovich, Omri Abend and Shay Cohen.
-* **7/10/2020**: Began my MPhil at the University of Cambridge, Fitzwilliam College.
+* **7/10/2019**: Began my MPhil at the University of Cambridge, Fitzwilliam College.
 * **1/7/2019**: Graduated from the University of Edinburgh, with First-class honors.
