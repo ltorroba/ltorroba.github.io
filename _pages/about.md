@@ -11,7 +11,7 @@ redirect_from:
 I am currently an intern at [Mila](https://mila.quebec/) supervised by [Siva Reddy](https://sivareddy.in/).
 I recently completed my MPhil in Advanced Computer Science at the [University of Cambridge](https://www.cam.ac.uk/), where I was supervised by [Ryan Cotterell](https://rycolab.github.io/).
 I did my undergrad at the [University of Edinburgh](https://www.ed.ac.uk/), where I was supervised by [Shay Cohen](http://homepages.inf.ed.ac.uk/scohen/).
-My current research interests are probing and Bayesian statistics.
+My current research interests are interpretability, explainability and Bayesian statistics.
 
 # News
 
