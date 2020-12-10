@@ -1,6 +1,6 @@
 ---
-title: "RL Football"
-excerpt: "For the <i>Reinforcement Learning</i> course at Edinburgh, I applied different RL techniques to a particular robot football scenario, in a variety of settings (discrete vs continuous state-space, single vs multi-agent)."
+title: "Reinforcement Learning"
+excerpt: "For the <i>Reinforcement Learning</i> course at Edinburgh, I applied different RL techniques to a particular robot football scenario, spanning a range of settings (discrete vs continuous states, single vs multi-agent)."
 image: "/images/500x300.png"
 collection: projects
 ---
