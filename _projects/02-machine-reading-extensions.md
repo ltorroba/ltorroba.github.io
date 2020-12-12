@@ -5,7 +5,7 @@ image: "/images/500x300.png"
 collection: projects
 ---
 
-For the _Machine Learning for Language Processing_ course at Cambridge, I explored some extensions to our (then under-review) ACL 2020 paper "Machine Reading of Historical Events" ([Honovitch et al., 2020](../../publication/2020-acl-machine-reading-historical-events)).
+For the _Machine Learning for Language Processing_ course at Cambridge, I explored some extensions to our (then under-review) ACL 2020 paper "Machine Reading of Historical Events" ([Honovich et al., 2020](../../publication/2020-acl-machine-reading-historical-events)).
 In that paper, we explore how to order historical events chronologically based on short textual descriptions of events and, optionally, some contextual information extracted from Wikipedia.
 
 In my report, I conducted two sets of experiments.
