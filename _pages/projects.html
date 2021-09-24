@@ -1,0 +1,15 @@
+---
+layout: archive
+title: "Projects"
+permalink: /projects/
+author_profile: true
+---
+
+{% include base_path %}
+
+<p>Below is a selection of projects I have worked on over the past few years. Most of these were for coursework in Edinburgh and Cambridge, and because of this, I can only share the code and reports upon request.</p>
+
+{% for post in site.projects %}
+  {% include archive-single.html %}
+{% endfor %}
+

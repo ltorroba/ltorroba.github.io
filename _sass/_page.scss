@@ -469,3 +469,16 @@ a.code-button {
 #main .cv-paper-link {
   display: inline;
 }
+
+.archive_side_image__container {
+  display: flex;
+  flex-wrap: wrap;
+  .archive_side_image__image {
+    object-fit: contain;
+    align-self: flex-start;
+  }
+
+  .archive_side_image__text {
+    flex: 1 1 auto;
+  }
+}
