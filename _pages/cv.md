@@ -1,25 +1,28 @@
 ---
 layout: archive
-title: 'CV <a class="link-button pdf-button" href="../files/cv.pdf"><i class="fa fa-file-pdf"></i>PDF</a>'
+title: 
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
+<!--title: 'CV <a class="link-button pdf-button" href="../files/cv.pdf"><i class="fa fa-file-pdf"></i>PDF</a>'-->
+
 {% include base_path %}
 
 Education
 ======
+* PhD in Computer Science, Massachusetts Institute of Technology, 2021–Ongoing.
 * MPhil in Advanced Computer Science, University of Cambridge, 2020. *Graduated with Distinction*.
 * BSc (Hons) in Artificial Intelligence and Computer Science, University of Edinburgh, 2019. *Graduted with First-class honors*.
 
 Work experience
 ======
-* 10/2020-Ongoing: Research Intern (Mila, Montreal, Canada)
-  * Working on developing word representations
+* 10/2020–07/2021: Intern (Mila, Montreal, Canada)
+  * Worked on developing and understanding word representations
   * Supervised by Siva Reddy
-* 06/2018-08/2018: Intern Software Developer (Canon Medical Systems Corporation, Edinburgh, UK)
+* 06/2018–08/2018: Intern Software Developer (Canon Medical Systems Corporation, Edinburgh, UK)
   * Worked on a virtual reality application using Direct3D and SteamVR 
 
 Publications
