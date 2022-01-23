@@ -5,4 +5,5 @@ end
 desc 'Jekyll Serve'
 task :serve do
   execute("jekyll liveserve --config _config.yml,_config.dev.yml --host 0.0.0.0")
+  # execute("jekyll liveserve --config _config.yml,_config.dev.yml")
 end

@@ -32,6 +32,7 @@ Work experience
 
 ## Awards
 
+* Michael Athans Fellowship *(Funding for 1st year of PhD)*
 * Mitacs Globalink Research Award *(Awarded funding to do an in-person internship at Mila, but wasn't able to claim due to COVID-19)*
 * Graduate Tutors Prize for Distinction in Masters degree *(Graduated from MPhil with a Distinction)*
 * Class Prize for Artificial Intelligence and Computer Science *(Graduated in 1st place in Edinburgh AI & CS cohort; 1 recipient)*
