@@ -1,7 +1,7 @@
 ---
 title: "A Latent-Variable Model for Intrinsic Probing"
 authors: "Karolina Stańczak&ast;, <b>Lucas Torroba Hennigen&ast;</b>, Adina Williams, Ryan Cotterell, Isabelle Augenstein"
-state: published
+state: preprint
 collection: publications
 permalink: /publication/2022-arxiv-latent-variable-probe
 excerpt: 'We introduce a novel latent-variable formulation of intrinsic probing which yields tighter mutual information estimates than previously proposed methods.'

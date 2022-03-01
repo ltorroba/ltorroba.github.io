@@ -15,6 +15,7 @@ I did my undergrad at the [University of Edinburgh](https://www.ed.ac.uk/), wher
 
 # News
 
+* **1/3/2022**: Our paper on [Probing as Quantifying the Inductive Bias of Pre-trained Representations](publication/2022-acl-inductive-biases) was accepted to ACL 2022.
 * **24/9/2021**: Our paper on [Classifying Dyads for Militarized Conflict Analysis](publication/2021-emnlp-dyads-conflict-analysis) was accepted to EMNLP 2021.
 * **7/9/2021**: Began a PhD in Computer Science, supervised by Yoon Kim.
 * **1/10/2020**: Began an internship with Siva Reddy, working in word representations for NLP.
