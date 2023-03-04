@@ -12,6 +12,3 @@ paperurl: 'https://www.aclweb.org/anthology/2020.acl-main.668.pdf'
 codeurl: 'https://github.com/ltorroba/machine-reading-historical-events'
 ---
 Machine reading is an ambitious goal in NLP that subsumes a wide range of text understanding capabilities. Within this broad framework, we address the task of machine reading the time of historical events, compile datasets for the task, and develop a model for tackling it. Given a brief textual description of an event, we show that good performance can be achieved by extracting relevant sentences from Wikipedia, and applying a combination of task-specific and general-purpose feature embeddings for the classification. Furthermore, we establish a link between the historical event ordering task and the event focus time task from the information retrieval literature, showing they also provide a challenging test case for machine reading algorithms.
-
-<a class="link-button paper-button" href="https://www.aclweb.org/anthology/2020.acl-main.668.pdf">Paper</a>
-<a class="link-button code-button" href="https://github.com/ltorroba/machine-reading-historical-events">Code</a>
