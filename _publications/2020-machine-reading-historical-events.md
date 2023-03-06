@@ -3,7 +3,7 @@ title: "Machine Reading of Historical Events"
 authors: "Or Honovich&ast;, <b>Lucas Torroba Hennigen&ast;</b>, Omri Abend, Shay B. Cohen"
 state: published
 collection: publications
-permalink: /publication/2020-acl-machine-reading-historical-events
+permalink: /publication/2020-machine-reading-historical-events
 excerpt: 'We introduce the historical event ordering (HEO) task, where a series of short textual descriptions of historical events, potentially alongside some additional information, are ordered chronologically. We compile two datasets for this task, and compare the performance of two models in it.'
 date: 2020-07-01
 venue: 'Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics'

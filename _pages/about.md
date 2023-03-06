@@ -15,14 +15,14 @@ I did my undergrad at the [University of Edinburgh](https://www.ed.ac.uk/), wher
 
 # News
 
-* **7/2/2023**: Our paper [A Latent-Variable Model for Intrinsic Probing](publication/2023-aaai-latent-variable-probe) was presented at AAAI 2023.
-* **6/5/2022**: Our paper on [Same Neurons, Different Languages: Probing Morphosyntax in Multilingual Pre-trained Models ](publication/2022-naacl-probing-typology) was accepted to NAACL 2022.
-* **1/3/2022**: Our paper on [Probing as Quantifying the Inductive Bias of Pre-trained Representations](publication/2022-acl-inductive-biases) was accepted to ACL 2022.
-* **24/9/2021**: Our paper on [Classifying Dyads for Militarized Conflict Analysis](publication/2021-emnlp-dyads-conflict-analysis) was accepted to EMNLP 2021.
+* **7/2/2023**: Our paper [A Latent-Variable Model for Intrinsic Probing](publication/2023-latent-variable-probe) was presented at AAAI 2023.
+* **6/5/2022**: Our paper on [Same Neurons, Different Languages: Probing Morphosyntax in Multilingual Pre-trained Models](publication/2022-probing-typology) was accepted to NAACL 2022.
+* **1/3/2022**: Our paper on [Probing as Quantifying the Inductive Bias of Pre-trained Representations](publication/2022-inductive-biases) was accepted to ACL 2022.
+* **24/9/2021**: Our paper on [Classifying Dyads for Militarized Conflict Analysis](publication/2021-dyads-conflict-analysis) was accepted to EMNLP 2021.
 * **7/9/2021**: Began a PhD in Computer Science, supervised by Yoon Kim.
 * **1/10/2020**: Began an internship with Siva Reddy, working in word representations for NLP.
-* **15/9/2020**: Our paper on [Intrinsic Probing Through Dimension Selection](publication/2020-emnlp-intrinsic-probing) was accepted at EMNLP 2020.
+* **15/9/2020**: Our paper on [Intrinsic Probing Through Dimension Selection](publication/2020-intrinsic-probing) was accepted at EMNLP 2020.
 * **15/7/2020**: Completed my MPhil in Advanced Computer Science with a Distinction.
-* **8/7/2020**: Presented the results of our paper, [Machine Reading of Historical Events](publication/2020-acl-machine-reading-historical-events). Joint work with Or Honovich, Omri Abend and Shay Cohen.
+* **8/7/2020**: Presented the results of our paper, [Machine Reading of Historical Events](publication/2020-machine-reading-historical-events). Joint work with Or Honovich, Omri Abend and Shay Cohen.
 * **7/10/2019**: Began my MPhil at the University of Cambridge, Fitzwilliam College.
 * **1/7/2019**: Graduated from the University of Edinburgh, with First-class honors.

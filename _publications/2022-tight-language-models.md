@@ -3,7 +3,7 @@ title: "A Measure-Theoretic Characterization of Tight Language Models"
 authors: "Li Du, <b>Lucas Torroba Hennigen</b>, Tiago Pimentel, Clara Meister, Jason Eisner, Ryan Cotterell"
 state: preprint
 collection: publications
-permalink: /publication/2022-arxiv-tight-language-models
+permalink: /publication/2022-tight-language-models
 excerpt: 'We provide a measure-theoretic characterization of language models and use it to characterize the notion of tightness more precisely.'
 date: 2022-12-20
 venue: 'arXiv'

@@ -482,3 +482,13 @@ a.code-button {
     flex: 1 1 auto;
   }
 }
+
+.page {
+  p.publication-author-list {
+    margin-bottom: 0;
+  }
+
+  p.publication-venue {
+    margin-top: 0;
+  }
+}
