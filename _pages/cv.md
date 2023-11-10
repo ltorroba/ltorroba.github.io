@@ -19,7 +19,10 @@ Education
 
 Work experience
 ======
-* 10/2020–07/2021: Intern (Mila, Montreal, Canada)
+* 06/2023–09/2023: Research Intern (MIT-IBM Watson AI Lab, Cambridge, Massachusetts)
+  * Worked on instruction tuning for LLMs
+  * Supervised by Akash Srivastava
+* 10/2020–07/2021: Research Intern (Mila, Montreal, Canada)
   * Worked on developing and understanding word representations
   * Supervised by Siva Reddy
 * 06/2018–08/2018: Intern Software Developer (Canon Medical Systems Corporation, Edinburgh, UK)
@@ -38,11 +41,3 @@ Work experience
 * Class Prize for Artificial Intelligence and Computer Science *(Graduated in 1st place in Edinburgh AI & CS cohort; 1 recipient)*
 * Howe Prize for Top Performance in UG4 Artificial Intelligence *(Highest aggregate grade in 4th year undergraduate AI cohort; 1 recipient)*
 * British Computing Society Prize for Top Performing Student in the Professional Issues Course *(Highest grade in 3rd year Professional Issues course; 2 recipients)*
-
-## Skills
-* Machine Learning, Deep Learning, NLP, Statistics
-* **Libraries**: pyTorch, pyro, AllenNLP
-* **Programming Languages**: Python, C/C++, Java, bash, Makefile
-* **Natural Languages**: English, Portuguese, Spanish
-* **Other**: LaTeX
-

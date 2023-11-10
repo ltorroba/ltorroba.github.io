@@ -3,11 +3,11 @@ title: "Same Neurons, Different Languages: Probing Morphosyntax in Multilingual 
 authors: "Karolina Stańczak, Edoardo Ponti, <b>Lucas Torroba Hennigen</b>, Ryan Cotterell, Isabelle Augenstein"
 state: published
 collection: publications
-permalink: /publication/2022-probing-typology
+permalink: /publication/probing-typology
 excerpt: 'We compare the neurons that are most informative of particular morphosyntactic categories in multilingual representations, and find significant overlap across languages.'
 date: 2022-07-10
 venue: 'Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies'
-short_venue: 'NAACL 2022'
+short_venue: 'NAACL'
 paperurl: 'https://aclanthology.org/2022.naacl-main.114.pdf'
 codeurl: 'https://github.com/copenlu/multilingual-typology-probing'
 ---

@@ -33,12 +33,13 @@
       <!-- <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a> ({{post.short_venue}}) -->
         {{post.authors}}. <a class="cv-paper-link" href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>.
         {% if post.state == 'to appear' %}
-        {{post.short_venue}} (to appear).
+        {{post.short_venue}} (to appear)
         {% elsif post.state == 'preprint' %}
-        {{post.short_venue}} preprint.
+        {{post.short_venue}} preprint
         {% else %}
-        {{post.short_venue}}.
+        {{post.short_venue}}
         {% endif %}
+        {{post.date | date: "%Y"}}.
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}

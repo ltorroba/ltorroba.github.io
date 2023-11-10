@@ -3,7 +3,7 @@ title: "Classifying Dyads for Militarized Conflict Analysis"
 authors: "Niklas Stoehr, <b>Lucas Torroba Hennigen</b>, Samin Ahbab, Robert West, Ryan Cotterell"
 state: published
 collection: publications
-permalink: /publication/2021-dyads-conflict-analysis
+permalink: /publication/dyads-conflict-analysis
 excerpt: 'We compare dyadic and systemic correlates of conflict in terms of their ability to infer if two entities are allies or enemies. Our results suggests that our systemic features appear to be more correlated.'
 date: 2021-11-07
 venue: 'Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing'

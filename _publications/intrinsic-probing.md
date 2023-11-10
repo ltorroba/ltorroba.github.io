@@ -3,7 +3,7 @@ title: "Intrinsic Probing Through Dimension Selection"
 authors: "<b>Lucas Torroba Hennigen</b>, Adina Williams, Ryan Cotterell"
 state: published
 collection: publications
-permalink: /publication/2020-intrinsic-probing
+permalink: /publication/intrinsic-probing
 excerpt: 'We introduce a novel framework for intrinsic probing that leverages a decomposable multivariate Gaussian probe. We run experiments on 36 languages from the Universal Dependencies treebanks, and find that fastText concentrates its linguistic structure more than BERT.'
 date: 2020-11-01
 venue: 'Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing'
