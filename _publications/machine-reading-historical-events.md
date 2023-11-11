@@ -7,7 +7,7 @@ permalink: /publication/machine-reading-historical-events
 excerpt: 'We introduce the historical event ordering (HEO) task, where a series of short textual descriptions of historical events, potentially alongside some additional information, are ordered chronologically. We compile two datasets for this task, and compare the performance of two models in it.'
 date: 2020-07-01
 venue: 'Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics'
-short_venue: 'ACL 2020'
+short_venue: 'ACL'
 paperurl: 'https://www.aclweb.org/anthology/2020.acl-main.668.pdf'
 codeurl: 'https://github.com/ltorroba/machine-reading-historical-events'
 ---

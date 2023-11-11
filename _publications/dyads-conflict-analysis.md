@@ -7,7 +7,7 @@ permalink: /publication/dyads-conflict-analysis
 excerpt: 'We compare dyadic and systemic correlates of conflict in terms of their ability to infer if two entities are allies or enemies. Our results suggests that our systemic features appear to be more correlated.'
 date: 2021-11-07
 venue: 'Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing'
-short_venue: 'EMNLP 2021'
+short_venue: 'EMNLP'
 paperurl: 'https://aclanthology.org/2021.emnlp-main.613.pdf'
 codeurl: 'https://conflict-ai.github.io/conflictwiki'
 ---

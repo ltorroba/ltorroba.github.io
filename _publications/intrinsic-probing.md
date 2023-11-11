@@ -7,7 +7,7 @@ permalink: /publication/intrinsic-probing
 excerpt: 'We introduce a novel framework for intrinsic probing that leverages a decomposable multivariate Gaussian probe. We run experiments on 36 languages from the Universal Dependencies treebanks, and find that fastText concentrates its linguistic structure more than BERT.'
 date: 2020-11-01
 venue: 'Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing'
-short_venue: 'EMNLP 2020'
+short_venue: 'EMNLP'
 paperurl: 'https://www.aclweb.org/anthology/2020.emnlp-main.15.pdf'
 codeurl: 'https://github.com/rycolab/intrinsic-probing'
 ---

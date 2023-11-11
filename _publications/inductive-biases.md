@@ -7,7 +7,7 @@ permalink: /publication/inductive-biases
 excerpt: 'We propose a new method to evaluate the inductive biases of pre-trained NLP representations which addresses limitations of previous work in probing. Our results suggest that fastText may offer a better inductive bias than BERT in certain multilingual morphosyntactic tasks.'
 date: 2022-05-22
 venue: 'Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics'
-short_venue: 'ACL 2022'
+short_venue: 'ACL'
 paperurl: 'https://aclanthology.org/2022.acl-long.129.pdf'
 codeurl: 'https://github.com/rycolab/evidence-probing'
 ---
