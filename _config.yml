@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lucas Torroba Hennigen"
+title                    : "Lucas Torroba-Hennigen"
 title_separator          : "-"
-name                     : &name "Lucas Torroba Hennigen"
+name                     : &name "Lucas Torroba-Hennigen"
 description              : &description ""
 url                      : https://ltorroba.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lucas Torroba Hennigen"
+  name             : "Lucas Torroba-Hennigen"
   avatar           : "profile.jpeg"
   bio              : "PhD student"
   location         : "Cambridge, MA"

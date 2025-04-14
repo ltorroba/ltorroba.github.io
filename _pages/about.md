@@ -13,4 +13,5 @@ Previously, I interned at [Mila](https://mila.quebec/) in [Siva Reddy](https://s
 Before then, I completed an MPhil in Advanced Computer Science at the [University of Cambridge](https://www.cam.ac.uk/), where I was supervised by [Ryan Cotterell](https://rycolab.github.io/).
 I did my undergrad at the [University of Edinburgh](https://www.ed.ac.uk/), where I was supervised by [Shay Cohen](http://homepages.inf.ed.ac.uk/scohen/).
 
-Currently, I am mainly interested in efficient techniques for LLM training and inference, instruction tuning, and improving the trustworthiness of LLM generations.
+Currently, I am interested in efficient techniques for LLM training and inference, instruction tuning, and improving the trustworthiness of LLM generations.
+In my free time you'll likely find me sailing in the Charles River.
